@@ -57,6 +57,6 @@ Welcome to the **Advanced To-Do List** application! This Python application allo
 
 ## Credits
 
-This project was developed by Mr. Aashish Tharu Gamuwa from Quantum University. Feel free to fork the repository and contribute!
+This project was developed by Mr. Tapendra chy from Quantum University. Feel free to fork the repository and contribute!
 
 **Thank You** ✔️
